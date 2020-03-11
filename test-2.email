@@ -8,7 +8,7 @@ It starts at a low-low price of {{product.Price}}.
 
 But for you, I'll give a discounte of {{product.DiscountPercent}} - that's a final price to you of {{product.FinalPrice}}.
 
-Please send bitcoin of {{product.FinalPrice}} to our offices in Australia at {{productEmail}}
+Please send bitcoin of {{product.FinalPrice}} to our offices in Australia at {{product.Email}}
 
 Best,
 
